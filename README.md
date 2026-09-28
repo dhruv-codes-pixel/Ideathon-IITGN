@@ -12,8 +12,9 @@ Team **Idea_buzz** — Jenil Charadva, Dhruv Jodhani, Jay Patel
 | Artifact | Link |
 |---|---|
 | 🖥️ Idea_buzz Ideathon Code    | [Open](https://ideabuzz-iitgn.vercel.app/) |
-|  Idea_buzz_ppt                 | [Open](https://claude.ai/artifact/BTYzemZbvN9fxsM5hmRWLq) |
+| 📊 Idea_buzz_ppt              | [Open](https://github.com/dhruv-codes-pixel/Ideathon-IITGN/blob/main/Idea_buzz_ppt.pptx) |
 | 🎬 Feeder-level VPP animation | [Watch video](https://github.com/dhruv-codes-pixel/Ideathon-IITGN/blob/main/Feeder-Level%20VPP%20Animation.mp4) |
+| 🔗 Video Link for the above   | [Link](https://github.com/dhruv-codes-pixel/Ideathon-IITGN/blob/main/Video_Link)
 
 The demo has four tabs: a duck-curve simulator, an animated process walkthrough of the full coordination pipeline, a dispatch/settlement calculator with live formula substitution, and a DISCOM value-case explorer.
 
@@ -169,10 +170,11 @@ None of the above targets a single 11 kV feeder, consumer-owned mixed-brand hard
 
 ```
 ├── README.md                                       — this file
-├── Idea_buzz_Avartan_Track8_Progress_Report.pdf    — full written specification
-├── Idea_buzz_ppt                                   — pitch deck source (8 slides)
+├── Idea_buzz_Avartan_Track8_Progress_Report.pdf    — progress report
+├── Idea_buzz_ppt.pptx                              — pitch deck source
 ├── Idea_buzz Ideathon Code.html                    — interactive concept demo source
-└── Feeder-Level VPP Animation.mp4                  — demo animation video
+├── Feeder-Level VPP Animation.mp4                  — demo animation video
+├── Feeder -Level VPP Animation.mp4 Link
 ```
 
 ---
