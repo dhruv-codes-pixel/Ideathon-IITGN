@@ -20,8 +20,7 @@ The demo has four tabs: a duck-curve simulator, an animated process walkthrough 
 
 ### Demo animation
 
-https://github.com/dhruv-codes-pixel/Ideathon-IITGN/blob/main/Feeder-Level%20VPP%20Animation.mp4
-
+(https://drive.google.com/drive/folders/1LMZq1mNPyAOKc2H0uhihMywPHXZzpUL9?usp=drive_link)
 ---
 
 ## The problem
